@@ -1,13 +1,15 @@
 ---
-title: "About Me"
+title: "Professional Experience"
 weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+Dr. Sari Mansheim is a US-trained internist with 20 years of practice in medicine.
+In the 15 years of her practice in Israel, Dr. Mansheim focuses on treating the whole person, also known as [Bio Psycho Social Medicine](https://en.wikipedia.org/wiki/Biopsychosocial_model), which states that a medical condition is the result of physical, psychological, and social factors.
+Whether attending to children, adolescents, or adults, Dr. Mansheim sees listening to the patient is a significant part of the treatment plan.
 
-##### Professionel Experience
+Dr. Mansheim began her practice of medicine as an internist in an OB/GYN practice in New Jersey, giving her extensive experience in all areas of women's health issues.
+Today, she practices in Kupat Holim Meuhedet as well as at a non-profit clinic in Jerusalem area, [Bishvilaych](http://bishvilaych.org/).
+Dr. Mansheim has helped women of all backgrounds through the entire range of issues that women can face with their health, in particular the variety of methods to manage family planning situations.
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Dr. Mansheim is also experienced with alternative treatment methods, from herbal to spiritual, all under the guidance of evidence-based medicine.

@@ -1,5 +1,5 @@
 ---
 header_image: "images/cover-image.jpg"
-header_headline: "Jane Doe"
-header_subheadline: "Hi there , I am a Nutrition Coach & Chef Consultant"
+header_headline: "Dr. Sari Mansheim"
+header_subheadline: "A medical professional that cares about what's bothering you"
 ---
