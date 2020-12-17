@@ -8,6 +8,10 @@ defaultContentLanguage = "en"
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
 
+# This theme can use emojis found at https://www.webfx.com/tools/emoji-cheat-sheet/.
+
+enableemoji = true
+
 # The "title" of your website
 title = "Dr. Sari Mansheim - A doctor who listens and treats the whole you"
 
@@ -36,6 +40,7 @@ title = "Dr. Sari Mansheim - A doctor who listens and treats the whole you"
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
+
 
     [params.meta]
         keywords = "dr, israel, women, health, medicine, family, planning, diaphragm"
