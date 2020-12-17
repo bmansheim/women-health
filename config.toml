@@ -9,11 +9,14 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # This theme can use emojis found at https://www.webfx.com/tools/emoji-cheat-sheet/.
-
 enableemoji = true
 
 # The "title" of your website
 title = "Dr. Sari Mansheim - A doctor who listens and treats the whole you"
+
+# Allows raw HTML in markdown files
+[markup.goldmark.renderer]
+unsafe= true
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
