@@ -7,11 +7,14 @@ header_menu: true
 How can I help?
 
 <form class="kwes-form" action="https://kwes.io/api/foreign/forms/7YD9S82N91ySqpaVHWVD">
-    <label for="name">Your name</label>
-    <input type="text" name="name">
+    <p><label for="name">Your name</label>
+    <input type="text" name="name"> rules="required|alpha"</p>
 
-    <label for="name">Your message</label>
-    <input type="text" name="message">
+    <p><label for="name">Your email address</label>
+    <input type="text" name="email"> rules="required|email"</p>
+
+    <p><label for="name">Your message</label>
+    <input type="text" name="message"> rules="required"</p>
 
     <button type="submit">Send</button>
 </form>
