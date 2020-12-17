@@ -10,7 +10,7 @@ Instead of you running from one referral to the next without a clear picture of 
 in a private consultation Dr. Mansheim can review your medical history,
 recommend treatment options, and refer you to other like-minded medical professionals.
 
-And, maybe most importantly, you'll feel heard, understood,
-and empowered to make decisions about your health.
+And, maybe most importantly, with Dr. Mansheim's highly praised emotional support based on Torah sources,
+you'll feel heard, understood, and empowered to make decisions about your health.
 
 ![Summer landscape](images/summer-nature-3-1370238.jpg)
