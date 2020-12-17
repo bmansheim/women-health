@@ -6,17 +6,17 @@ header_menu: true
 
 How can we help?
 
-<form class="kwes-form" action="https://kwes.io/api/foreign/forms/7YD9S82N91ySqpaVHWVD">
-    <div class="kw-multistep-body">
-        <p><label for="name">Your name</label>
-        <input type="text" name="name"> rules="required|alpha"</p>
+<form class="kwes-form"
+  action="https://kwes.io/api/foreign/forms/7YD9S82N91ySqpaVHWVD">
 
-        <p><label for="name">Your email address</label>
-        <input type="text" name="email"> rules="required|email"</p>
+  <label for="name">Your name</label>
+  <input type="text" name="name" rules="required|alpha">
 
-        <p><label for="name">Your message</label>
-        <input type="text" name="message"> rules="required"</p>
-
-        <button type="submit">Send</button>
-    </div>
+  <label for="name">Your email address</label>
+  <input type="text" name="email" rules="required|email">
+  <label for="name">Your message</label>
+  
+  <input type="text" name="message" rules="required">
+  
+  <button type="submit">Send</button>
 </form>
