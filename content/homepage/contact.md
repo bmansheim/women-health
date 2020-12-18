@@ -13,10 +13,10 @@ How can we help?
   <input type="text" name="name" rules="required|alpha">
 
   <label for="email">Your email</label>
-  <input type="email" name="email" rules="email|confirmed|required">
+  <input type="text" name="email" rules="email|confirmed|required">
 
   <label for="email_confirm">Confirm email</label>
-  <input type="email" name="email_confirmation" rules="email|required">
+  <input type="text" name="email_confirm" rules="email|required">
   
   <label for="message">Your message</label>
   <input type="text" name="message" rules="required">
