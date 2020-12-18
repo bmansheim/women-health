@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 Dr. Sari Mansheim is a US-trained internist with 20 years of practice in medicine.
-In the 15 years of her practice in Israel, Dr. Mansheim focuses on treating the whole person,
+In her 15 years of practice in Israel, Dr. Mansheim focuses on treating the whole person,
 also known as [Bio Psycho Social Medicine](https://en.wikipedia.org/wiki/Biopsychosocial_model),
 which states that a medical condition is the result of physical, psychological, and social factors.
 Whether attending to children, adolescents, or adults,
