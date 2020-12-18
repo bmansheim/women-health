@@ -12,11 +12,15 @@ How can we help?
   <label for="name">Your name</label>
   <input type="text" name="name" rules="required|alpha">
 
-  <label for="name">Your email address</label>
-  <input type="text" name="email" rules="required|email">
-  <label for="name">Your message</label>
+  <label for="name">Your email</label>
+  <input type="email" name="email" rules="email|confirmed|required">
+
+  <label for="name">Confirm email</label>
+  <input type="email" name="email_confirmation" rules="email|required">
   
+  <label for="name">Your message</label>
   <input type="text" name="message" rules="required">
   
   <button type="submit">Send</button>
+
 </form>
