@@ -3,10 +3,10 @@ title: "Welcome"
 weight: 1
 ---
 
-Are you looking for a doctor that will really listen to you?
+Are you looking for a doctor who really listens to you?
 
-Are you struggling with chronic medical issues and can't find the right resources?
+Do struggle with chronic medical issues and can't find the right resources?
 
-Are you a woman who wants to manage your family planning but can't find the right methods?
+Do you want to manage your family planning but can't find the right methods?
 
 ![Doctor-patient relationship](images/1569815110-huge.jpg)
