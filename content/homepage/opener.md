@@ -7,4 +7,4 @@ Are you looking for a doctor who really listens to you?
 
 Do you struggle with chronic medical issues and you can't find the right resources?
 
-Do you want to manage your family planning but you can't find the right methods?
+Do you want to manage your family planning and you need to find the right method for you?
